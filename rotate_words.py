@@ -24,19 +24,6 @@ def all_rotations(s):
         print(new_str)
         
 
-s_input = "spatula"
-
-rotated_word = rotate("spatula")
-rotated_word_2 = rotates("spatula", 0)
-rotated_word_3 = rotates("spatula", 1)
-rotated_word_4 = rotates("spatula", 2)
-
-all_rotations("far")
-
-print(rotated_word)
-print(rotated_word_2)
-print(rotated_word_3)
-print(rotated_word_4)
 
 
 
